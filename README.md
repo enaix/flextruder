@@ -4,6 +4,10 @@
 
 Floating extruder upgrade for Anycubic i3 mega (Titan) with rigid design
 
+## Mk1 prototype issues
+
+*I accidentally nuked my power supply while installing this upgrade*, so there is no release yet. If you are going to test it right away, be extra careful with the extruder cord (I tried to extend it by soldering in wires, perhaps it shortsd)
+
 ## Required components
 
 * Anycubic i3 mega-s (Titan extruder)
